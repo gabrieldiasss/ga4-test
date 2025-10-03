@@ -10,6 +10,11 @@ export default function Home() {
         <Link href="/home">home</Link>
         <Link href="/pagina">PAGINA ALEATORIa</Link>
       </div>
+
+      <h1>
+        <a href="https://www.instagram.com/">Link do insta</a>
+      </h1>
+
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <Image
           className="dark:invert"
