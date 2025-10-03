@@ -8,6 +8,7 @@ export default function Home() {
         <Link href="/about">Sobre</Link>
         <Link href="/contact">contato</Link>
         <Link href="/home">home</Link>
+        <Link href="/pagina">PAGINA ALEATORIa</Link>
       </div>
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <Image
